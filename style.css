@@ -332,6 +332,7 @@ li {
 
 .project-container {
     margin-top: 20px;
+    flexwrap: wrap;
 }
 
 .details-link:hover .project-output {
@@ -385,8 +386,7 @@ li {
 
     .project-container {
         display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
+        align-items: flex-start;
     }
 }
 
