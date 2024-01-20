@@ -213,6 +213,7 @@ nav {
 
     .image {
         border: none;
+        margin-left: 0px;
     }
 
     .image:hover {
