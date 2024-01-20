@@ -336,7 +336,6 @@ li {
 
 .project-container {
     margin-top: 20px;
-    flexwrap: wrap;
 }
 
 .details-link:hover .project-output {
