@@ -171,6 +171,8 @@ nav {
     background-color: orangered;
     border: none;
     color: black;
+    height: 100%;
+    width: 135%;
 }
 
 .image:hover,
